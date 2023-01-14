@@ -7,3 +7,18 @@ public class OlaMundo {
 	}
 
 }
+
+// Comentario de linha
+
+/*
+	Comentario 
+	de 
+	varias
+	linhas
+
+*/
+
+// Sempre coloque espaço antes das {
+// sempre defina a identação | quantos espacos 
+
+
